@@ -1,5 +1,4 @@
-# razeNetworks
-This has source for http://rngigafiber.com
+This has sources for http://rngigafiber.com
 
 ## Build
 
