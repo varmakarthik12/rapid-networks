@@ -1,0 +1,8 @@
+version: "2"
+services:
+  website-speedtest-server:
+    image: varmakarthik12/rapid-networks
+    ports:
+      - 80:80
+      - 8080:8080
+    restart: always
