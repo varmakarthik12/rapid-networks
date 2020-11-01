@@ -3,6 +3,10 @@ This has sources for http://rngigafiber.com
 ## Build
 
 ```sh
+docker build . -t varmakarthik12/rapid-networks
+```
+
+```sh
 docker push varmakarthik12/rapidNetworks
 ```
 
